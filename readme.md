@@ -1,1 +1,1 @@
-	![alt text]('./client/images/app_screenshot.jpg')
+	![alt text](https://github.com/calvinmac633/ethSend/blob/main/client/images/app_screenshot.jpg?raw=true)
